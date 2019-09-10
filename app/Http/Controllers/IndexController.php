@@ -34,14 +34,14 @@ class IndexController extends Controller
      */
     public function store(Request $request)
     {
-        /*$request->validate([
+        $request->validate([
             'card_number' => 'required|numeric|min:15|max:17',
             'card_holder' => 'required|string',
             'card_expiration' => 'required|date',
             'cvv' => 'required|numeric|min:2|max:4',
             'order_number' => 'required|numeric|max:17',
             'sum' => 'required',
-        ]);*/
+        ]);
         dump($request->all());
     }
     

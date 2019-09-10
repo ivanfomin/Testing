@@ -16,6 +16,7 @@
         <p>Order number<input type="number" maxlength="16" name="order_number"></p>
         <p>Sum<input type="text" name="sum"></p>
         <button type="submit">Send</button>
+
         @csrf
 
     </form>
