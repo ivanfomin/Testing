@@ -1,0 +1,43 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.idea
+Будет удалено .editorconfig
+Будет удалено .env.example
+Будет удалено .gitattributes
+Будет удалено .gitignore
+Будет удалено .idea/
+Будет удалено .styleci.yml
+Будет удалено app/
+Будет удалено artisan
+Будет удалено bootstrap/app.php
+Будет удалено bootstrap/cache/.gitignore
+Будет удалено composer.json
+Будет удалено composer.lock
+Будет удалено config/
+Будет удалено database/
+Будет удалено package.json
+Будет удалено phpunit.xml
+Будет удалено public/
+Будет удалено readme.md
+Будет удалено resources/
+Будет удалено routes/
+Будет удалено server.php
+Будет удалено storage/app/
+Будет удалено storage/framework/.gitignore
+Будет удалено storage/framework/cache/
+Будет удалено storage/framework/sessions/.gitignore
+Будет удалено storage/framework/testing/
+Будет удалено storage/framework/views/.gitignore
+Будет удалено storage/logs/.gitignore
+Будет удалено tests/
+Будет удалено webpack.mix.js
